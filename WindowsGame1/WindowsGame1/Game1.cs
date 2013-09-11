@@ -21,6 +21,7 @@ namespace WindowsGame1
 
         public Game1()
         {
+            // Salut
             graphics = new GraphicsDeviceManager(this);
             Content.RootDirectory = "Content";
         }
